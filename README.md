@@ -1,1 +1,2 @@
-# happiness_index_hacker
+# Happiness Index Hacker
+An android app, made using Kivy on python.
